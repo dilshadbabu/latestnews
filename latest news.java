@@ -25,7 +25,12 @@
 		return null;
 		
 	}
+
+	________________________________________________________________
 	curl --location 'http://localhost:55004/story'
+
+	Output:
+	{"Latest News":" class=\"summary\" At least 99 eole have died, making it the deadliest wildfire in the U.S. in over a century. \/"}
 	
 	
 	
